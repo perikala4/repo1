@@ -31,3 +31,5 @@ select * from CASE WHEN MBU_LVL_2_DESC IN ('HOME','LUMENOS','NATIONAL', 'BLUE CA
 THEN SET LCL_NATL_BUS_CD = 'N' from SCD_ORG;
 
 -- Note: User_Story_Point_3,7 are covered in the previous user story.
+
+git trial purpose
